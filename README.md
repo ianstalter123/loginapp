@@ -1,6 +1,6 @@
 # README #
 
-##Todo app using Reactnative,firebase and nativebase##
+##Simple login app using Reactnative,firebase and nativebase##
 ### What is this repository for? ###
 
 * Quick summary
@@ -11,7 +11,7 @@ A simple login integrated using reactnative,firebase and nativebasee
 
 * Summary of set up
 For detailed explaination on how to use it head over to the following link:
-http://technoetics.in/simple-login-system-using-reactnativefirebase-nativestack/
+http://technoetics.in/simple-login-system-using-reactnativefirebase-nativebase/
 
 ### Contribution guidelines ###
 
